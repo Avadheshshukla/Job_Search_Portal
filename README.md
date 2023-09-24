@@ -14,14 +14,11 @@ This project is a job search portal that allows CRUD operations on a Job entity 
 ---
 <br>
 
-## Framework Used
-* Spring Boot
-
----
-<br>
-
 ## Language Used
 * Java
+* SpringBoot
+* Maven Dependencies
+* H2 Database
 
 ---
 <br>
@@ -169,11 +166,11 @@ We have used InMemory database H2 to implement CRUD Operations.
 
 The project is a job search portal built using Spring Boot and H2 Database. It allows CRUD operations on a Job entity with added validation using Spring Boot validation. The Job entity class has fields for job details like title, description, location, salary, company name, employer name, job type, and applied date. The project supports various endpoints for CRUD operations and searching for jobs based on title and description. Custom finders and custom queries are also available for advanced querying.
  
+<!-- Contact -->
+## Contact
+For questions or feedback, please contact : Avadhesh Shukla   -
+- Maild Id : avadheshukla1636@gmail.com
 
- Contact:-Deepak Kumar Singh
- 
- Gmail:-deepak76311@gmail.com
-<center>
-<h1> Thank you </h1>
-</center>
+<h1 align="center">Thank You...💖<h1>
+<h3 align = "center"> ***********************************************************<h3>
              
