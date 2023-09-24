@@ -1,6 +1,4 @@
-<center>
-<h1> JOB PORTAL </h1>
-</center>
+# <h1 align = "center"> Job Search Portal Using H2 Database </h1>
 <center>
 <a href="Java url">
     <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
