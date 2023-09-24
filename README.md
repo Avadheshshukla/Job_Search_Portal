@@ -1,13 +1,23 @@
 # <h1 align = "center"> Job Search Portal Using H2 Database </h1>
-<center>
+<p align="center">
 <a href="Java url">
     <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
 </a>
 <a href="Maven url" >
-    <img alt="Maven" src="https://img.shields.io/badge/maven-3.0.5-brightgreen.svg" />
+    <img alt="Maven" src="https://img.shields.io/badge/maven-3.1.3-brightgreen.svg" />
 </a>
-</center>
-This project is a job search portal that allows CRUD operations on a Job entity with added validation on the entity class. The project is built using Spring Boot and H2 Database.
+<a href="Spring Boot url" >
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.0.6-brightgreen.svg" />
+</a>
+</p>
+<br>
+
+<p align="left">
+
+<!-- Project Description -->
+## Overview
+<p align="center">This project is a job search portal that allows CRUD operations on a Job entity with added validation on the entity class. The project is built using Spring Boot and H2 Database. 
+</p>
 
 ---
 <br>
